@@ -10,7 +10,7 @@
 </head>
 <center><body>
     <h1>Xin chao</h1>
-    <a href="logout.php" title="Logout">Login</a>
+    <a href="logout.php" title="Logout">Logout</a>
 
     
 </body></center>
