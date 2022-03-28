@@ -10,6 +10,10 @@
 </head>
 <center><body>
     <h1>Xin chao</h1>
+    <?php
+    echo $_SESSION['username'];
+    ?>
+    <br/>
     <a href="logout.php" title="Logout">Logout</a>
 
     
